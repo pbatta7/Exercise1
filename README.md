@@ -1,4 +1,4 @@
 # Exercise1 
 Read me for Exercise1
 
-details
+details for exercise1
